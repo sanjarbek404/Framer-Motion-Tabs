@@ -1,0 +1,5 @@
+{
+  "name": "Animated Tabs",
+  "description": "A React + TypeScript tab component with fade/slide animations using Framer Motion.",
+  "requestFramePermissions": []
+}
